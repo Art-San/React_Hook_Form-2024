@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* <div className=" flex justify-center items-center h-[100vh]">
+<div className=" max-w-[1200px] min-w-[500px] my-auto p-[2rem] text-center">
+  <h1 className=" text-3xl font-bold">Feedback form</h1>
+  <form>
+    <input type="text" placeholder="email" />
+    <textarea name="" id="1" placeholder="enter message"></textarea>
+    <button type="submit"></button>
+  </form>
+</div>
+</div> */
